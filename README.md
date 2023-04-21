@@ -1,6 +1,7 @@
 # Bigime
 Bigime: A Termux Security Tools Installer.
 
-git clone 
-chmod +x bigime.sh 
-./bigime.sh
+1) git clone 
+
+2) chmod +x bigime.sh 
+3) ./bigime.sh
