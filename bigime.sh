@@ -7,7 +7,7 @@ echo "██████╔╝██║██║  ███╗██║██╔
 echo "██╔══██╗██║██║   ██║██║██║╚██╔╝██║██╔══╝  "
 echo "██████╔╝██║╚██████╔╝██║██║ ╚═╝ ██║███████╗"
 echo "╚═════╝ ╚═╝ ╚═════╝ ╚═╝╚═╝     ╚═╝╚══════╝"
-echo "Developed by abtzpro and Hello Security"
+echo " Developed by abtzpro and Hello Security"
 echo ""
 
 # Install packages
